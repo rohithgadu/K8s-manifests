@@ -48,7 +48,7 @@ Task 3. Kubernetes.
 
   - For the K8s Cluster I used a single-node local Kubernetes cluster from Docker Desktop.
 
-  - The yaml manfiests in this repo are for the project built in task 1.
+  - The yaml manifests in this repo are for the project built in task 1.
   - Task 1 repo link: https://github.com/rohithgadu/java-rest-api 
 
   - The mongo-config.yaml file contains the mongo configuration.
