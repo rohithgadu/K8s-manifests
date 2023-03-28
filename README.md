@@ -61,6 +61,14 @@ Task 3. Kubernetes.
   
   - After applying all the manifest files the app endpoints are available at localhost:8090.
 
+## Screenshots
 
+### Starting up application by applying yaml manifests and mongodb is running in a separate pod with a persistent volume
+![image](https://user-images.githubusercontent.com/84178107/228358685-d2925722-0aa2-49de-bebc-94573c5eda4c.png)
+
+### App endpoints are available on localhost:8090 and the mongo connection details are taken from the environment variables
+![image](https://user-images.githubusercontent.com/84178107/228359179-c1ccdc4b-44db-4eaf-9be3-0ac8470f3358.png)
+![image](https://user-images.githubusercontent.com/84178107/228360113-4d86e673-c191-4c0f-b310-d55d29de2250.png)
+![image](https://user-images.githubusercontent.com/84178107/228360227-dd09462f-aa85-4a9f-b79c-a0b0bcc232c8.png)
 
     
